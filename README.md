@@ -13,4 +13,5 @@ Instructions
 
 1. Clone repo.
 2. `ln -s ~/.profile /path/to/repo/.profile`
-2. `ln -s ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User /path/to/repo/st2-prefs`
+3. Grab .git-completion.sh and .git-prompt.sh from Git.
+4. `ln -s ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User /path/to/repo/st2-prefs`
